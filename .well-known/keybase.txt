@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/gdarb
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://miles.sh
+  * I am gdarb (https://keybase.io/gdarb) on keybase.
+  * I have a public key ASA_jwBjj0trq9SXgrdEGDdJCmmVRwF3c9Q9LViRYZLuKgo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01203f8f00638f4b6babd49782b7441837490a699547017773d43d2d58916192ee2a0a",
+      "host": "keybase.io",
+      "kid": "01203f8f00638f4b6babd49782b7441837490a699547017773d43d2d58916192ee2a0a",
+      "uid": "9f78c508ff6381bf5eaea849189fc719",
+      "username": "gdarb"
+    },
+    "merkle_root": {
+      "ctime": 1559201598,
+      "hash": "fa56c5bbac82f9ef6dd262f4edcbaadc51aa9ef4858837a239760a2a17a43222f62ecf7510490e6e4c8181ee99376c7535e618f922f80e0ba8a88a6e35a6a27e",
+      "hash_meta": "49a03359184cd674f82883bdee2d614d5c53430db9c1a30665bc3c820a1645b0",
+      "seqno": 5473906
+    },
+    "service": {
+      "entropy": "rgZNViG7ZGZKKNbs9M/P4XDP",
+      "hostname": "miles.sh",
+      "protocol": "http:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "4.0.0"
+  },
+  "ctime": 1559201616,
+  "expire_in": 504576000,
+  "prev": "e580b82b3475ef02b368992730661503bec40f4bc42ff30d3b8e39c6bb821dbe",
+  "seqno": 10,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgP48AY49La6vUl4K3RBg3SQpplUcBd3PUPS1YkWGS7ioKp3BheWxvYWTESpcCCsQg5YC4KzR17wKzaJknMGYVA77ED0vEL/MNO445xruCHb7EIGczdFjDT7fmyLPG/Ymjg19AxCQX5/Fz6wRxbXRXc0/zAgHCo3NpZ8RA0zTVDth4hmhFg9MQzmAJShIrpHAXf/Rdf7F+vaFqVM6WqUW5BykhGmVBVCWpJgcmecNWXrAh7h0hBlj1lVH4AqhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIIn0Rq+WlSP6enUqQgn+fxvJ68I6KLjVvHstREtdTmRto3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/gdarb
+
+==================================================================
